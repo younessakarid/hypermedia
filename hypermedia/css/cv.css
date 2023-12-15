@@ -1,0 +1,11 @@
+img{
+    width: 400px;
+    height: 350px;
+    display: flex;
+    justify-content: left;
+}
+    
+h1{
+    text-align: left
+}
+

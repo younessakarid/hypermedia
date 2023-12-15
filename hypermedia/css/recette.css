@@ -1,0 +1,23 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    width: 500px;
+}
+
+h1{
+    color: red;
+    border: 1px black solid;
+    text-align: center;
+}
+
+.couss{
+    background-color: gray;
+    color: white;
+}
+
+#menuuu{
+    text-align: center;
+}
